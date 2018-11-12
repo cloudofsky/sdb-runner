@@ -1,0 +1,10 @@
+pkginfo,--check @@
+elm_prefs_cc,@@ output
+embryo_cc,@@
+makeconv,@@
+pkgdata,@@
+sbcenc,@@
+nl,@@
+lzmadec,-d @@.7z
+unzip,@@.zip
+xz,-d @@.xz
